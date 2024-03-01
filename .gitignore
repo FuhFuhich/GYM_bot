@@ -3,5 +3,6 @@ Model.py
 ignore
 telegram_bot/__pycache__
 docs/source
-docs/build
 docs/make.bat
+docs/build/*
+!docs/build/index.html
