@@ -13,6 +13,6 @@ $ git clone https://github.com/FuhFuhich/GYM_bot.git
 ```
 затем установите с помощью pip:
 ```console
-$ cd GYM_bot.py
+$ cd GYM_bot
 $ python -m pip install .
 ```
