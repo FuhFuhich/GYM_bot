@@ -10,7 +10,7 @@ def create_reply_keyboard():
     return keyboard
 
 def muscles_keyboard():
-    inline_btn_1 = InlineKeyboardButton('Бицепс', callback_data='button1')
+    inline_btn_1 = InlineKeyboardButton('Старый пидорас', callback_data='button1')
     inline_btn_2 = InlineKeyboardButton('Трицепс', callback_data='button2')
     inline_btn_3 = InlineKeyboardButton('Плечи', callback_data='button3')
     inline_btn_4 = InlineKeyboardButton('Предпечья', callback_data='button4')
